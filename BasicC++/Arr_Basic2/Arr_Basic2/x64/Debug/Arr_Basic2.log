@@ -1,0 +1,4 @@
+﻿  Quelle.cpp
+C:\Users\CC-Student\source\repos\Arr_Basic2\Arr_Basic2\Quelle.cpp(25,22): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\CC-Student\source\repos\Arr_Basic2\Arr_Basic2\Quelle.cpp(26,25): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+  Arr_Basic2.vcxproj -> C:\Users\CC-Student\source\repos\Arr_Basic2\x64\Debug\Arr_Basic2.exe

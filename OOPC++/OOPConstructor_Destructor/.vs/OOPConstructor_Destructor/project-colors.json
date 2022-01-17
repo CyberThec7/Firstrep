@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7953e50c-9b19-4204-aab2-0b42b57c80a1": {
+      "ProjectGuid": "7953e50c-9b19-4204-aab2-0b42b57c80a1",
+      "DisplayName": "OOPConstructor_Destructor",
+      "ColorIndex": 0
+    },
+    "186de5a9-dfad-4a15-909a-4a88aca449cf": {
+      "ProjectGuid": "186de5a9-dfad-4a15-909a-4a88aca449cf",
+      "DisplayName": "OOP_Class2",
+      "ColorIndex": 1
+    },
+    "dfe0995a-6956-4ac9-a601-12aacfa91098": {
+      "ProjectGuid": "dfe0995a-6956-4ac9-a601-12aacfa91098",
+      "DisplayName": "OOP_Class",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

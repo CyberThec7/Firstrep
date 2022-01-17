@@ -1,0 +1,3 @@
+﻿  Quelle.cpp
+C:\Users\CC-Student\source\repos\Pointers\Pointers\Quelle.cpp(66,28): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+  Pointers.vcxproj -> C:\Users\CC-Student\source\repos\Pointers\x64\Debug\Pointers.exe

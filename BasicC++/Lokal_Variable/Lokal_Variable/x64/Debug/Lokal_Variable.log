@@ -1,0 +1,14 @@
+﻿  Const_Static.cpp
+C:\Users\CC-Student\source\repos\Lokal_Variable\Lokal_Variable\Const_Static.cpp(14,11): error C2373: "sum": Neudefinition; unterschiedliche Modifizierer
+C:\Users\CC-Student\source\repos\Lokal_Variable\Lokal_Variable\Const_Static.cpp(3): message : Siehe Deklaration von "sum"
+C:\Users\CC-Student\source\repos\Lokal_Variable\Lokal_Variable\Const_Static.cpp(15,5): error C2084: Funktion "int main(void)" hat bereits einen Funktionsrumpf
+C:\Users\CC-Student\source\repos\Lokal_Variable\Lokal_Variable\Const_Static.cpp(4): message : Siehe vorherige Definition von "main"
+C:\Users\CC-Student\source\repos\Lokal_Variable\Lokal_Variable\Const_Static.cpp(20,7): error C2088: "<<": Ungültig für class
+  LokalV.cpp
+C:\Users\CC-Student\source\repos\Lokal_Variable\Lokal_Variable\LokalV.cpp(20,5): error C2374: "sum": Neudefinition; Mehrfachinitialisierung
+C:\Users\CC-Student\source\repos\Lokal_Variable\Lokal_Variable\LokalV.cpp(3): message : Siehe Deklaration von "sum"
+C:\Users\CC-Student\source\repos\Lokal_Variable\Lokal_Variable\LokalV.cpp(21,5): error C2084: Funktion "int main(void)" hat bereits einen Funktionsrumpf
+C:\Users\CC-Student\source\repos\Lokal_Variable\Lokal_Variable\LokalV.cpp(4): message : Siehe vorherige Definition von "main"
+C:\Users\CC-Student\source\repos\Lokal_Variable\Lokal_Variable\LokalV.cpp(38,11): error C2373: "sum": Neudefinition; unterschiedliche Modifizierer
+C:\Users\CC-Student\source\repos\Lokal_Variable\Lokal_Variable\LokalV.cpp(3): message : Siehe Deklaration von "sum"
+  Code wird generiert...

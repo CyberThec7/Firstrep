@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: Das Zwischenverzeichnis (x64\Debug\) enthält freigegebene Dateien aus einem anderen Projekt (StructurAgain.vcxproj). Dies kann zu einem falschen Bereinigungs- und Neuerstellungsverhalten führen.
+  Quelle.cpp
+  studsent.cpp
+  Code wird generiert...
+  StructurAgain.vcxproj -> C:\Users\CC-Student\source\repos\OOPC++\StructurAgain\x64\Debug\Class_und overriding.exe

@@ -1,0 +1,8 @@
+﻿  Quelle.cpp
+C:\Users\CC-Student\source\repos\OOPC++\OOP-Inheritance\OOP-Inheritance\Quelle.cpp(6,1): warning C4326: Der Rückgabetyp von "main" sollte "int" und nicht "void" sein
+C:\Users\CC-Student\source\repos\OOPC++\OOP-Inheritance\OOP-Inheritance\Quelle.cpp(12,15): warning C4305: "Argument": Verkürzung von "double" in "float"
+C:\Users\CC-Student\source\repos\OOPC++\OOP-Inheritance\OOP-Inheritance\Quelle.cpp(17,48): warning C4305: "Argument": Verkürzung von "double" in "float"
+C:\Users\CC-Student\source\repos\OOPC++\OOP-Inheritance\OOP-Inheritance\Quelle.cpp(19,58): warning C4305: "Argument": Verkürzung von "double" in "float"
+  master.cpp
+  Code wird generiert...
+  OOP-Inheritance.vcxproj -> C:\Users\CC-Student\source\repos\OOPC++\OOP-Inheritance\x64\Debug\OOP-Inheritance.exe

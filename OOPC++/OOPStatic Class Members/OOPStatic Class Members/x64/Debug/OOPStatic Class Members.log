@@ -1,0 +1,5 @@
+﻿  Quelle.cpp
+C:\Users\CC-Student\source\repos\OOPC++\OOPStatic Class Members\OOPStatic Class Members\Quelle.cpp(30,28): warning C4305: "Argument": Verkürzung von "double" in "float"
+C:\Users\CC-Student\source\repos\OOPC++\OOPStatic Class Members\OOPStatic Class Members\Quelle.cpp(33,36): warning C4305: "Argument": Verkürzung von "double" in "float"
+C:\Users\CC-Student\source\repos\OOPC++\OOPStatic Class Members\OOPStatic Class Members\Quelle.cpp(37,8): error C2039: "c" ist kein Member von "Cars".
+C:\Users\CC-Student\source\repos\OOPC++\OOPStatic Class Members\OOPStatic Class Members\Cars.h(4): message : Siehe Deklaration von "Cars"

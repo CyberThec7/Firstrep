@@ -1,0 +1,4 @@
+﻿  Quelle.cpp
+C:\Users\CC-Student\source\repos\BasicC++\Struct_withARRYs\Struct_withARRYs\Quelle.cpp(26,26): warning C4305: "=": Verkürzung von "double" in "float"
+C:\Users\CC-Student\source\repos\BasicC++\Struct_withARRYs\Struct_withARRYs\Quelle.cpp(34,33): warning C4305: "=": Verkürzung von "double" in "float"
+  Struct_withARRYs.vcxproj -> C:\Users\CC-Student\source\repos\BasicC++\Struct_withARRYs\x64\Debug\Struct_withARRYs.exe

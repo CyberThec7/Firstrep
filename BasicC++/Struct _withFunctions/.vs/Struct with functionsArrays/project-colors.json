@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cdfa4a38-875d-4110-89f1-ffabf6bc3b12": {
+      "ProjectGuid": "cdfa4a38-875d-4110-89f1-ffabf6bc3b12",
+      "DisplayName": "Struct with functionsArrays",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

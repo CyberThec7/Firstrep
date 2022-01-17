@@ -1,0 +1,8 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: Das Zwischenverzeichnis (x64\Debug\) enthält freigegebene Dateien aus einem anderen Projekt (OOP_Polymorphism.vcxproj). Dies kann zu einem falschen Bereinigungs- und Neuerstellungsverhalten führen.
+  polyg.cpp
+C:\Users\CC-Student\source\repos\OOPC++\OOP_Polymorphism1\OOP_Polymorphism\polyg.cpp(12,23): warning C4244: "return": Konvertierung von "double" in "int", möglicher Datenverlust
+  Quelle.cpp
+  recta.cpp
+  shape.cpp
+  Code wird generiert...
+  OOP_Polymorphism.vcxproj -> C:\Users\CC-Student\source\repos\OOPC++\OOP_Polymorphism1\x64\Debug\OOP_Polymorphism1.exe

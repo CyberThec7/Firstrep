@@ -1,0 +1,4 @@
+﻿  Quelle.cpp
+C:\Users\CC-Student\source\repos\OOPC++\OOP_Class\OOP_Class\Quelle.cpp(44,22): warning C4305: "Argument": Verkürzung von "double" in "float"
+C:\Users\CC-Student\source\repos\OOPC++\OOP_Class\OOP_Class\Quelle.cpp(45,21): warning C4305: "Argument": Verkürzung von "double" in "float"
+  OOP_Class.vcxproj -> C:\Users\CC-Student\source\repos\OOPC++\OOP_Class\x64\Debug\OOP_Class.exe

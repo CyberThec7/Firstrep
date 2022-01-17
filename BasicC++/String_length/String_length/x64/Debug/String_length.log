@@ -1,0 +1,3 @@
+﻿  Quelle.cpp
+C:\Users\CC-Student\source\repos\String_length\String_length\Quelle.cpp(41,27): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int", Datenverlust möglich
+  String_length.vcxproj -> C:\Users\CC-Student\source\repos\String_length\x64\Debug\String_length.exe

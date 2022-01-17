@@ -1,0 +1,3 @@
+﻿  really.cpp
+C:\Users\CC-Student\source\repos\OOPC++\überrüfen\überrüfen\really.cpp(22,17): warning C4305: "=": Verkürzung von "double" in "float"
+  überrüfen.vcxproj -> C:\Users\CC-Student\source\repos\OOPC++\überrüfen\x64\Debug\überrüfen.exe

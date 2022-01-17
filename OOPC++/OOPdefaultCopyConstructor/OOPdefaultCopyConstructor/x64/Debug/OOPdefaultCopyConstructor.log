@@ -1,0 +1,4 @@
+﻿  Quelle.cpp
+C:\Users\CC-Student\source\repos\OOPC++\OOPdefaultCopyConstructor\OOPdefaultCopyConstructor\Quelle.cpp(6,23): warning C4305: "Argument": Verkürzung von "double" in "float"
+C:\Users\CC-Student\source\repos\OOPC++\OOPdefaultCopyConstructor\OOPdefaultCopyConstructor\Quelle.cpp(13,26): warning C4305: "Argument": Verkürzung von "double" in "float"
+  OOPdefaultCopyConstructor.vcxproj -> C:\Users\CC-Student\source\repos\OOPC++\OOPdefaultCopyConstructor\x64\Debug\OOPdefaultCopyConstructor.exe

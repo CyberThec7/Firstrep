@@ -1,0 +1,4 @@
+﻿  Quelle.cpp
+C:\Users\CC-Student\source\repos\cin_problem\cin_problem\Quelle.cpp(20,12): error C2086: "std::string name": Neudefinition
+C:\Users\CC-Student\source\repos\cin_problem\cin_problem\Quelle.cpp(6): message : Siehe Deklaration von "name"
+C:\Users\CC-Student\source\repos\cin_problem\cin_problem\Quelle.cpp(22,5): error C3861: "getline": Bezeichner wurde nicht gefunden.

@@ -1,0 +1,11 @@
+﻿  Quelle.cpp
+C:\Users\CC-Student\source\repos\test\test\Quelle.cpp(45,14): error C2011: "main::Book": "struct" Typneudefinition
+C:\Users\CC-Student\source\repos\test\test\Quelle.cpp(37): message : Siehe Deklaration von "main::Book"
+C:\Users\CC-Student\source\repos\test\test\Quelle.cpp(68,14): error C2079: "book1" verwendet undefiniertes struct "main::Book"
+C:\Users\CC-Student\source\repos\test\test\Quelle.cpp(68,21): error C2079: "book2" verwendet undefiniertes struct "main::Book"
+C:\Users\CC-Student\source\repos\test\test\Quelle.cpp(68,28): error C2079: "book3" verwendet undefiniertes struct "main::Book"
+C:\Users\CC-Student\source\repos\test\test\Quelle.cpp(69,6): error C2601: "main": Lokale Funktionsdefinitionen sind unzulässig
+C:\Users\CC-Student\source\repos\test\test\Quelle.cpp(27): message : Diese Zeile enthält eine "{", die keine Entsprechung hat.
+C:\Users\CC-Student\source\repos\test\test\Quelle.cpp(71,14): error C2079: "book1" verwendet undefiniertes struct "main::Book"
+C:\Users\CC-Student\source\repos\test\test\Quelle.cpp(72,14): error C2079: "book2" verwendet undefiniertes struct "main::Book"
+C:\Users\CC-Student\source\repos\test\test\Quelle.cpp(73,14): error C2079: "book3" verwendet undefiniertes struct "main::Book"
