@@ -9,7 +9,7 @@ jobs:
       fail-fast: false
       matrix: 
         operating_system: [windows-latest, ubuntu-latest, macos-latest]
-    runs-on: ${{matrix.opertaing_system}}
+    runs-on: ${{matrix.operating_system}}
     steps:
       - name: Only for Windows
         if: ${{matrix.operating_system == 'windows-latest'}}
