@@ -1,0 +1,18 @@
+name: Expressions
+
+on: 
+  workflow_dispatch:
+
+
+jobs:
+  define_expressions:
+    runs-on: ubuntu-latest
+    steps:
+      - name: explain which expressions that we have
+        run: | # all the following must be within ${{}}
+          echo "variable, object.property, object[ `property`]"
+          echo "Operators for our Expressions: Grouping(), index[], Property access ., Negation !, Less-greater than equal to >=<, equal ==, different !=, and &&, or ||"
+          echo "these is valid: matrix.operating_system == ´windows-latest´, matrix.dotnet_version >= 7, matrix.operating_system ==´windows-latest´ && matrix.dotnet_version >= 7"
+          echo "functions: success(), always() this return true even if a previous was canceled, this means that thestep willl always get executed, cancelled() workflow canceled, failure() step faild"
+          echo "Useful functions. contains(search, item) true if search contains item, startsWith(search, item), endsWith(), format(strin, value1, value2, ...)replace values in the string, join(arr) concatenates the values in an arr into string, toJSON(value) return pretty-print representation of the vlue, fromJSON(value) return json object of value, hashFiles return single hash for the set of files that matches the path pattern"
+          echo ""
