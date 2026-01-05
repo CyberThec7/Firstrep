@@ -1,0 +1,19 @@
+name: conditional expression
+
+on: 
+  workflow_dispatch:
+
+jobs:
+  conditionalExpression:
+    strategy:
+      fail-fast: false
+      matrix: 
+        operating_system: [windows-latest, ubuntu-latest, macos-latest]
+    runs-on: ${{matrix.opertaing_system}}
+    steps:
+      - name: Only for Windows
+        if: ${{matrix.operating_system == 'windows-latest'}}
+        run: echo " this is just in windows executed"
+
+      - name: Common step for every OS
+        run: echo "Common step"
